@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "yyAzHoiVLu+xywYI2BDyRq6sOqE=",
+			"path": "github.com/google/go-querystring/query",
+			"revision": "9235644dd9e52eeae6fa48efd539fdc351a0af53",
+			"revisionTime": "2016-03-11T01:20:12Z"
+		},
+		{
+			"checksumSHA1": "jO5hyeFp041cQwOX4ai+mKKlcwE=",
+			"path": "github.com/urfave/cli",
+			"revision": "207bb6185291cfced4895a7768cad642e08a68d8",
+			"revisionTime": "2016-08-22T19:54:13Z"
+		}
+	],
+	"rootPath": "github.com/cldmnky/gosa"
+}
